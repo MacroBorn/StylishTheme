@@ -3,7 +3,7 @@
 
 ## Name
 ```
-Overall Github Theme 
+Colorful Github Dark
 ```
 
 ## Description
@@ -32,7 +32,7 @@ V1.0 init theme
 ```
 
 ## CSS
-Use [CSS](../themes/Overall-Github-Theme.min.css)
+Use [CSS](../themes/Colorful-Github-Dark.min.css)
 
 ## Example URL
 ```

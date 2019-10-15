@@ -2,10 +2,10 @@
 > Mainly store some personal StylishThemes
 
 <details open>
-<summary>1. Overall Github Theme</summary>
+<summary>1. Colorful Github Dark</summary>
 
-## Overall Github Theme
-+ 效果预览 ![img](images/Overall-Github-Theme-001.png)
+## Colorful Github Dark
++ 效果预览 ![img](images/Colorful-Github-Dark-001.png)
 + 更改的样式
   + 图标
   + 按钮
