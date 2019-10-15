@@ -8528,7 +8528,9 @@
     .select-menu-header,
     .select-menu-header *,
     header.Header,
-    .application-main div.d-flex {
+    .application-main div.d-flex,
+    header.Header-old,
+    .pagehead.instapaper_ignore.readability-menu {
         background-color: unset !important;
     }
 
@@ -8588,5 +8590,14 @@
         border: none !important;
         border-right: 1px solid #343434 !important;
         background: unset !important;
+    }
+
+    .octotree-sidebar.octotree-github-sidebar .octotree-toggle{
+        background: linear-gradient(#adf10a, #1a17de) !important;
+    }
+
+    .octotree-sidebar.octotree-github-sidebar span{
+        color: #bfff23 !important;
+        font-size: 14px;
     }
 }
