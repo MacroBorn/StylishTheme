@@ -2,7 +2,7 @@
 > Mainly store some personal StylishThemes
 
 <details open>
-<summary>1. Colorful Github Dark</summary>
+<summary>ST001 Colorful Github Dark</summary>
 
 ## Colorful Github Dark
 + 效果预览 ![img](images/Colorful-Github-Dark-001.png)
