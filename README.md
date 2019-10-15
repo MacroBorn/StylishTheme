@@ -1,6 +1,6 @@
 <p align="center">
   <!-- <img alt="logo" src="images/logo.gif" width="580"> -->
-  <img alt="logo" src="images/logo3.png">
+  <img alt="logo" src="images/logo4.png" style="height: 300px;width: 100%;">
 </p>
 
 # StylishTheme
