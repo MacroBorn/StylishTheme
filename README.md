@@ -1,7 +1,7 @@
 # StylishTheme
 > Mainly store some personal StylishThemes
 
-<details>
+<details open>
 <summary>1. Overall Github Theme</summary>
 
 ## Overall Github Theme
