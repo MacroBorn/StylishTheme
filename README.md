@@ -12,8 +12,6 @@ Mainly store some personal StylishThemes
     <span>ST001 Colorful Github Dark</span>
 </summary>
 
-
-
 ## Colorful Github Dark
 
 ### Preview
