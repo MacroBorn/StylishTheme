@@ -3,7 +3,7 @@
 
 ## Name
 ```
-Overall Github Theme
+Overall Github Theme 
 ```
 
 ## Description
@@ -23,7 +23,7 @@ Overall Github Theme
 
 ## Additional Info
 ```
-V1.0
+V1.0 init theme
 ```
 
 ## CSS
