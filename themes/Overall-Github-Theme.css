@@ -8517,7 +8517,7 @@
         color: #93a9ab !important;
     }
 
-    /* 清除背景颜色：组织页面头部、帮助页、源码查找文件 */
+    /* 清除背景颜色：主页、组织页面头部、帮助页、源码查找文件 */
     .pagehead.orghead,
     body > div[style]:nth-child(1),
     section[class*="mt-lg"],
@@ -8525,7 +8525,9 @@
     body.dotcom section,
     ul#tree-browser a.tree-browser-result,
     .select-menu-header,
-    .select-menu-header * {
+    .select-menu-header *,
+    header.Header,
+    .application-main div.d-flex {
         background-color: unset !important;
     }
 
