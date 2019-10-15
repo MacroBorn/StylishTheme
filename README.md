@@ -1,12 +1,13 @@
 <p align="center">
-  <img alt="logo" src="images/logo.gif" width="580">
+  <!-- <img alt="logo" src="images/logo.gif" width="580"> -->
+  <img alt="logo" src="images/logo3.png">
 </p>
 
 # StylishTheme
 > Mainly store some personal StylishThemes
 
 <details open>
-<summary>ST001 Colorful Github Dark</summary>
+<summary><span style="font-size:22px">ST001 Colorful Github Dark</span></summary>
 
 ## Colorful Github Dark
 
