@@ -1,6 +1,6 @@
 <p align="center">
   <!-- <img alt="logo" src="images/logo.gif" width="580"> -->
-  <img alt="logo" src="images/logo4.png" style="height: 300px;width: 100%;">
+  <img alt="logo" src="images/logo.png" style="height: 300px;width: 100%;">
 </p>
 
 # StylishTheme
@@ -14,7 +14,7 @@
 ### Preview
 ![img](images/Colorful-Github-Dark-001.png)
 
-### Style
+### Involving Style
 > 图标、按钮、头像、选项卡、滚动条、搜索、单选、复选、下拉列表、Octotree插件等尽可能统一样式风格...
 
 ### Installation
@@ -26,6 +26,6 @@
 > 搭配代码树插件
 > 
 > [[Octotree]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon)
-### 应用站点
+### Apply Site
 > [[Github.com]](https://github.com)
 </details>
