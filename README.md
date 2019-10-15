@@ -11,7 +11,11 @@
   + 按钮
   + 头像
   + 选项卡
+  + 滚动条
+  + 搜索
+  + 单选、复选
   + Octotree插件
+  + 尽可能统一风格...
 + 基于以下主题整合修改，实现一体化安装
   + [[vip-darkhub-code-purple]](https://userstyles.org/styles/172338/vip-darkhub-code-purple)
   + [[octotree-for-github-ice-dark]](https://userstyles.org/styles/170999/octotree-for-github-ice-dark)

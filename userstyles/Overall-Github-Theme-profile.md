@@ -13,7 +13,12 @@ Overall Github Theme
 · 按钮
 · 头像
 · 选项卡
+· 滚动条
+· 搜索
+· 单选、复选
+· 下拉列表
 · Octotree插件
+· 尽可能统一风格...
 2.该样式基于以下主题整合修改，实现一体化安装
 【<a href="https://userstyles.org/styles/172338/vip-darkhub-code-purple" class='text-decoration: none;'>vip-darkhub-code-purple</a>】
 【<a href="https://userstyles.org/styles/170999/octotree-for-github-ice-dark" class='text-decoration: none;'>octotree-for-github-ice-dark</a>】
