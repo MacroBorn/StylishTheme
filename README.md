@@ -8,11 +8,7 @@
 Mainly store some personal StylishThemes
 
 <details open>
-<summary><span style="
-    font-weight: bold;
-    color: #ff002f;
-    font-size: 20px;
-">ST001 Colorful Github Dark</span></summary>
+<summary style="font-weight: bold;color: #ff002f;font-size: 20px;"><span style="font-weight: bold;color: #ff002f;font-size: 20px;">ST001 Colorful Github Dark</span></summary>
 
 ## Colorful Github Dark
 
