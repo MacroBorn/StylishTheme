@@ -1,6 +1,9 @@
 # StylishTheme
 > Mainly store some personal StylishThemes
 
+<details>
+<summary>1. Overall Github Theme</summary>
+
 ## Overall Github Theme
 + 效果预览 ![img](images/Overall-Github-Theme-001.png)
 + 更改的样式
@@ -15,3 +18,4 @@
 + 搭配代码树插件 [[Octotree]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon)
 + 应用站点
   + Github.com
+</details>
