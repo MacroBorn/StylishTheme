@@ -8486,12 +8486,19 @@
         fill: gold !important;
     }
 
+    /* 箭头图标 */
+    span.dropdown-caret {
+        border-color: #f5cf07 !important;
+        border-right-color: transparent !important;
+        border-left-color: transparent !important;
+    }
+
     /* 按钮 */
     .btn-primary:not(.compare-button),
     .btn-theme-green,
     .button.primary {
         border-color: #083 !important;
-        background: linear-gradient(#000ab9, #ff031b) !important;
+        background: linear-gradient(to right, #000ab9, #73ff0a) !important;
     }
 
     /* 主页头像*/
@@ -8592,11 +8599,11 @@
         background: unset !important;
     }
 
-    .octotree-sidebar.octotree-github-sidebar .octotree-toggle{
+    .octotree-sidebar.octotree-github-sidebar .octotree-toggle {
         background: linear-gradient(#adf10a, #1a17de) !important;
     }
 
-    .octotree-sidebar.octotree-github-sidebar span{
+    .octotree-sidebar.octotree-github-sidebar span {
         color: #bfff23 !important;
         font-size: 14px;
     }
