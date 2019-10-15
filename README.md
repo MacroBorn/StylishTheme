@@ -2,7 +2,6 @@
   <img alt="logo" src="images/logo.gif" width="580">
 </p>
 
-# StylishTheme
 > Mainly store some personal StylishThemes
 
 <details open>
