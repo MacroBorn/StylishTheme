@@ -1,9 +1,12 @@
-# Name
+# Profile
+> 用于在 `userstyles` 发布时使用的文档
+
+## Name
 ```
 Overall Github Theme
 ```
 
-# Description
+## Description
 ```html
 1.更改的样式
 · 图标
@@ -18,15 +21,15 @@ Overall Github Theme
 【<a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon" class='text-decoration: none;'>Octotree</a>】
 ```
 
-# Additional Info
+## Additional Info
 ```
 V1.0
 ```
 
-# CSS
+## CSS
 Use [CSS](../themes/Overall-Github-Theme.min.css)
 
-# Example URL
+## Example URL
 ```
 https://github.com
 ```
