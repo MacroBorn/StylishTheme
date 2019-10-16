@@ -16,7 +16,7 @@
 ![images](images/Colorful-Github-Dark-001.png)
 
 ## **Involving Style**
-> **尽可能统一样式风格**
+> **As uniform as possible style**
 
 - **图标**
 - **按钮**
@@ -30,17 +30,23 @@
 - **...**
 
 ## **Installation**
-> **基于以下主题整合扩展，实现一体化安装**
+> **Integrated deployment based on the following topics for integrated installation**
 
 - [vip-darkhub-code-purple](https://userstyles.org/styles/172338/vip-darkhub-code-purple)
 - [octotree-for-github-ice-dark](https://userstyles.org/styles/170999/octotree-for-github-ice-dark)
 
 ## **Cooperate**
-> **搭配代码树插件**
+> **Cooperate code tree plugin**
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon)
 
 ## **Apply Site**
 - [Github.com](https://github.com)
 
+</details>
+
+<details>
+<summary>
+    <span>More,Please wait ...</span>
+</summary>
 </details>
