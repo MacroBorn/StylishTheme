@@ -29,7 +29,7 @@
 - **Octotree插件**
 - **...**
 
-## **Installation**
+## **Build**
 > **Integrated deployment based on the following topics for integrated installation**
 
 - [vip-darkhub-code-purple](https://userstyles.org/styles/172338/vip-darkhub-code-purple)

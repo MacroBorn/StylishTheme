@@ -8480,6 +8480,11 @@
         color: #099 !important;
     }
 
+    /* 整体 */
+    html {
+        background-color: unset !important;
+    }
+
     /* 图标 */
     #js-repo-pjax-container .octicon,
     svg[class^="octicon"] {
@@ -8523,6 +8528,21 @@
         border-color: transparent !important;
         background-color: unset !important;
         color: #93a9ab !important;
+    }
+
+    .tabnav-tab.selected,
+    .tabnav-tab[aria-selected="true"] {
+        color: #24292e;
+        background-color: #fff;
+        border-color: #d1d5da;
+        border-radius: 3px 3px 0 0;
+        margin: 3px 0;
+        color: #9f4711;
+        background-color: #222 !important;
+    }
+
+    .tabnav-tabs button.tabnav-tab {
+        color: #9f4711 !important;
     }
 
     /* 清除背景颜色：主页、组织页面头部、帮助页、源码查找文件 */
