@@ -18,15 +18,15 @@
 ## **Involving Style**
 > **As uniform as possible style**
 
-- **Icon**
-- **Button**
-- **Avatar**
-- **Search**
 - **Tab**
+- **Icon**
+- **Avatar**
+- **Button**
+- **Search**
 - **ScrollBar**
+- **Octotree Plugin**
 - **Drop-Down List**
 - **Radio、Checkbox**
-- **Octotree Plugin**
 - **...**
 
 ## **Integrated Build**
