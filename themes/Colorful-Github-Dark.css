@@ -8492,8 +8492,8 @@
     }
 
     /* 徽章 */
-    .Counter{
-        color: gold!important;
+    .Counter {
+        color: gold !important;
     }
 
     /* 箭头图标 */
@@ -8635,6 +8635,54 @@
     /* 下拉列表 */
     div.position-md-absolute {
         background-color: #181818 !important;
+    }
+
+    /* 其他页面 */
+    .bg-gray,
+    .bg-gray:not(body):not(.team-discussions-container),
+    .bg-gray-dark,
+    .bg-gray-light,
+    .btn-mktg,
+    .jumbotron-codelines,
+    .bg-white {
+        background-color: unset !important;
+        color: #ad530c !important;
+    }
+    .btn-mktg:hover {
+        background-color: #101010 !important;
+        color: gold !important;
+    }
+
+    .home-enterprise-wrapper:before {
+        background-color: unset !important;
+    }
+
+    .page-responsive .HeaderMenu-link {
+        color: #ad530c !important;
+    }
+
+    .IconNav-item {
+        border-bottom: none;
+    }
+
+    .jumbotron-projects,
+    .jumbotron-code-review {
+        background-image: none;
+    }
+
+    .dropdown-menu,
+    .bg-blue-dark {
+        background: #222 !important;
+    }
+
+    .actions-template-card,
+    .card-mktg {
+        background-color: #181818 !important;
+    }
+
+    .TimelineItem-break {
+        background-color: unset !important;
+        border-top: none !important;
     }
 
     /* Octotree 代码树 */
