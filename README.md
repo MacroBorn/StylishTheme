@@ -5,7 +5,8 @@
 # **StylishTheme**
 > **Mainly store some personal StylishThemes**
 
-<details open style='font-size:22px;'>
+# **Theme Lists**
+<details open>
 <summary>
     <span>ST001 Colorful Github Dark</span>
 </summary>
