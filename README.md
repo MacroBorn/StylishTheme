@@ -13,7 +13,7 @@
 
 # **Colorful Github Dark**
 ## **Preview**
-![images](images/Colorful-Github-Dark-001.png)
+![images](images/Colorful-Github-Dark-01.png)
 
 ## **Involving Style**
 > **As uniform as possible style**
