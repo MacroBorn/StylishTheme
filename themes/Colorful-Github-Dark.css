@@ -8717,4 +8717,9 @@
         color: #bfff23 !important;
         font-size: 14px;
     }
+
+    /* 排除 Night Shift 插件影响 */
+    div#screen-shader {
+        background: unset !important;
+    }
 }
