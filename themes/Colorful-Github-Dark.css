@@ -8491,6 +8491,11 @@
         fill: gold !important;
     }
 
+    /* 徽章 */
+    .Counter{
+        color: gold!important;
+    }
+
     /* 箭头图标 */
     span.dropdown-caret {
         border-color: #f5cf07 !important;
@@ -8545,6 +8550,23 @@
         color: #9f4711 !important;
     }
 
+    .select-menu-tabs .select-menu-tab-nav[aria-selected="true"] {
+        color: #24292e;
+        background-color: #222;
+        border-color: #dfe2e5 #dfe2e5 #fff;
+        color: #9f4711 !important;
+    }
+
+    a.UnderlineNav-item {
+        border-color: unset !important;
+        border-bottom: none;
+        color: #ad530c !important;
+    }
+
+    .UnderlineNav-item.selected {
+        border-bottom: 2px solid transparent;
+    }
+
     /* 清除背景颜色：主页、组织页面头部、帮助页、源码查找文件 */
     .pagehead.orghead,
     body > div[style]:nth-child(1),
@@ -8577,6 +8599,15 @@
         background: #3c2c2c !important;
     }
 
+    .SelectMenu-modal,
+    .SelectMenu-item {
+        background: #181818 !important;
+    }
+
+    .SelectMenu-item:hover {
+        background: #3c2c2c !important;
+    }
+
     /* 单选、复选按钮 */
     input[type="radio"]:checked,
     input[type="checkbox"]:checked {
@@ -8589,11 +8620,11 @@
         border-radius: 12px;
         background: linear-gradient(to right, #1a17de, #adf10a) !important;
     }
-    
+
     ::-webkit-scrollbar-thumb:hover {
         background: linear-gradient(to right, #adf10a, #1a17de) !important;
     }
-    
+
     ::-webkit-scrollbar-thumb:vertical {
         background: linear-gradient(#1a17de, #adf10a) !important;
     }
