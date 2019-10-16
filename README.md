@@ -18,15 +18,15 @@
 ## **Involving Style**
 > **As uniform as possible style**
 
-- **图标**
-- **按钮**
-- **头像**
-- **搜索**
-- **选项卡**
-- **滚动条**
-- **下拉列表**
-- **单选、复选**
-- **Octotree插件**
+- **Icon**
+- **Button**
+- **Avatar**
+- **Search**
+- **Tab**
+- **ScrollBar**
+- **Drop-Down List**
+- **Radio、Checkbox**
+- **Octotree Plugin**
 - **...**
 
 ## **Integrated Build**
