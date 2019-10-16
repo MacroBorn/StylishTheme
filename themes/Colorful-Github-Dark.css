@@ -8587,7 +8587,18 @@
     /* 滚动条 */
     ::-webkit-scrollbar-thumb {
         border-radius: 12px;
+        background: linear-gradient(to right, #1a17de, #adf10a) !important;
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+        background: linear-gradient(to right, #adf10a, #1a17de) !important;
+    }
+    
+    ::-webkit-scrollbar-thumb:vertical {
         background: linear-gradient(#1a17de, #adf10a) !important;
+    }
+    ::-webkit-scrollbar-thumb:vertical:hover {
+        background: linear-gradient(#adf10a, #1a17de) !important;
     }
 
     /* 下拉列表 */
