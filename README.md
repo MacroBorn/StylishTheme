@@ -2,35 +2,44 @@
   <img alt="logo" src="images/logo.png" style="height: 300px;width: 100%;">
 </p>
 
-# StylishTheme
+# **StylishTheme**
+> **Mainly store some personal StylishThemes**
 
-__Mainly store some personal StylishThemes__
-
-<details open>
+<details open style='font-size:22px;'>
 <summary>
     <span>ST001 Colorful Github Dark</span>
 </summary>
 
-# Colorful Github Dark
-
+# **Colorful Github Dark**
 ## **Preview**
 ![images](images/Colorful-Github-Dark-001.png)
 
 ## **Involving Style**
+> **尽可能统一样式风格**
 
-__图标、按钮、头像、选项卡、滚动条、搜索、单选、复选、下拉列表、Octotree插件等尽可能统一样式风格...__
+- **图标**
+- **按钮**
+- **头像**
+- **搜索**
+- **选项卡**
+- **滚动条**
+- **下拉列表**
+- **单选、复选**
+- **Octotree插件**
+- **...**
 
 ## **Installation**
+> **基于以下主题整合扩展，实现一体化安装**
 
-__基于以下主题整合扩展，实现一体化安装__
-
-[[vip-darkhub-code-purple](https://userstyles.org/styles/172338/vip-darkhub-code-purple)] [[octotree-for-github-ice-dark](https://userstyles.org/styles/170999/octotree-for-github-ice-dark)]
+- [vip-darkhub-code-purple](https://userstyles.org/styles/172338/vip-darkhub-code-purple)
+- [octotree-for-github-ice-dark](https://userstyles.org/styles/170999/octotree-for-github-ice-dark)
 
 ## **Cooperate**
+> **搭配代码树插件**
 
-__搭配代码树插件__ [[Octotree]](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon)
+- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-ntp-icon)
 
 ## **Apply Site**
-[[Github.com]](https://github.com)
+- [Github.com](https://github.com)
 
 </details>
