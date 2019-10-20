@@ -48,9 +48,9 @@
     a {
         color: #1e8307 !important;
     }
-    a:visited {
+    /* a:visited:not[href*='#'] {
         color: #684588 !important;
-    }
+    } */
     a.js-sticky,
     a.gh-header-shadow {
         color: #1e8307 !important;
@@ -8683,6 +8683,15 @@
     .TimelineItem-break {
         background-color: unset !important;
         border-top: none !important;
+    }
+
+    .markdown-body,
+    .markdown-body table *,
+    .commit,
+    .commit-group-title .octicon-git-commit,
+    .commit-icon .octicon,
+    .commit-meta {
+        background-color: unset !important;
     }
 
     /* Octotree 代码树 */
