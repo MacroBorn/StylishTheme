@@ -19,6 +19,7 @@ Colorful Github Dark
 ## Additional Info
 ```
 V1.0 init theme
+V1.01 将图片亮度降低、统一explore、marketplace页面样式、其他小更新
 ```
 
 ## CSS

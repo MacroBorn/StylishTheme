@@ -1,6 +1,6 @@
 /* 
 * Name Colorful Github Dark v1.0 (2019-10-15)
-* Version 1.0
+* Version 1.0.1
 * Author Born
 * Date Created 2019-10-15
 * Last Updated 2019-10-16
@@ -4414,7 +4414,6 @@
     .more-branches,
     .plan-choice.open,
     .uploaded-files > li.delete,
-    .bg-gray-light,
     .more-repos,
     .billing-per-seat-callout:after,
     .code-list-item .blob-num,
@@ -8573,7 +8572,6 @@
     section[class*="mt-lg"],
     section[class*="mt-lg"] .btn-mktg,
     body.dotcom section,
-    ul#tree-browser a.tree-browser-result,
     .select-menu-header,
     .select-menu-header *,
     header.Header,
@@ -8581,6 +8579,10 @@
     header.Header-old,
     .pagehead.instapaper_ignore.readability-menu {
         background-color: unset !important;
+    }
+
+    .tree-browser-result[aria-selected="true"] {
+        background-color: #181818 !important;
     }
 
     .table-list-header-toggle ul[role="tablist"] button {
@@ -8730,5 +8732,57 @@
     /* 排除 Night Shift 插件影响 */
     div#screen-shader {
         background: unset !important;
+    }
+
+    /* 头像、背景 */
+    .gh-header {
+        background-color: unset !important;
+    }
+    #partial-discussion-sidebar .labels a {
+        color: #000 !important;
+    }
+    .avatar {
+        border-radius: 50% !important;
+    }
+    main > .position-relative > .position-absolute > img.js-plaxify:first-child {
+        display: none;
+    }
+
+    /* marketplace,图片透明度降低 */
+    .MarketplaceBackground-buffer {
+        background: unset !important;
+    }
+
+    .bg-white,
+    .MarketplaceAnnouncement,
+    img:not([alt*="logo"]) {
+        opacity: 0.68;
+    }
+
+    /* explore */
+    .application-main > main .border-bottom {
+        background: unset !important;
+    }
+
+    .comment-body div.position-absolute {
+        background: linear-gradient(to top, rgb(14, 47, 167), rgba(206, 53, 173, 0)) !important;
+    }
+
+    .subnav-link.selected {
+        font-weight: 500;
+        color: gold !important;
+        border-bottom-color: #1074e7;
+    }
+
+    .application-main .site-subnav.is-stuck {
+        background: #040506 !important;
+    }
+    .gh-header .gh-header-sticky.is-stuck + .gh-header-shadow {
+        background: #101010 !important;
+        height: 65px;
+    }
+
+    span.IssueLabel {
+        background-color: #000 !important;
     }
 }
